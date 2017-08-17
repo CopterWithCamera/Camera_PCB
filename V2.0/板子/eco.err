@@ -1,0 +1,12 @@
+** 报告中的 ECO **
+
+Mon May 15 21:05:51 2017
+
+输入文件: F:\研途风光\学弟的板\板子\CTRL.eco
+当前作业: CTRL.pcb
+
+
+
+行 6，段 *CHGPART*
+U4  SD  MICROSD_MOLEX_502702
+* 警告:元器件在输入文件中具有元件类型 SD，但在设计中为 MICROSD_MOLEX_502702。

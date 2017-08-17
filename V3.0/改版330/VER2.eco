@@ -1,0 +1,19 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: D:\PADS Projects\ecogtmp0.asc
+*REMARK*  new file: F:\研途\学弟的板\改版\VER2.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 2017/8/3 15:43:21
+*DELPART*
+M13  P4MM
+M14  P4MM
+M15  P4MM
+M16  P4MM
+M17  P4MM
+M18  P4MM
+M19  P4MM
+M20  P4MM
+*NET*
+*SIGNAL*  VCC3V3
+U1.4
+
+*REMARK*  Deleted pins: 0,  Added pins: 1
+*END*

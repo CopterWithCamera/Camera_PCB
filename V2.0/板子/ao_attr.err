@@ -1,0 +1,14 @@
+Assembly Variant Service has detected improper attribute values
+
+Sun May 21 20:01:28 2017
+
+当前作业: CTRL.pcb
+
+
+Format:
+OBJ_NAME
+OLD_VALUE{EMPTY;TOO_LONG}
+NEW_VALUE{DELETED;TOO_LONG}
+RESUME
+
+
